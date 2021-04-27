@@ -1,0 +1,17 @@
+.titulo
+{
+text-align: center;
+padding: 20px;
+}
+
+.contenido
+{
+text-align: center;
+background-color: indigo;
+}
+
+.bodyColor
+{
+    background-color: rgb(15, 15, 37);
+    color: whitesmoke;
+}
